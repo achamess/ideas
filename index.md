@@ -1,1 +1,1 @@
-
+- [Taxonomy of Notes](https://github.com/achamess/ideas/blob/master/taxonomy_of_notes.md)
