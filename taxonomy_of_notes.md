@@ -120,56 +120,57 @@ For example, if I'm taking code notes, I don't need to copy all the detail. I re
 ------
 ## Recent additions (2019)
 
- External information
-	- Factual information
-		- Ex. MOA of NSAIDs
-	- Knowledge from books, video, seminar, etc.
-		- Principles of Antibiotic Usage
-		- How to write `For loops` in `Python`
-	- Personal info
-		- Phone numbers
-		- Addressses
-		- Passwords
+### External information   
+ 
+- Factual information
+	- Ex. MOA of NSAIDs
+- Knowledge from books, video, seminar, etc.
+	- Principles of Antibiotic Usage
+	- How to write `For loops` in `Python`
+- Personal info
+	- Phone numbers
+	- Addressses
+	- Passwords
 	
-- Internally generated
-	- Idea
-	- Response to external information
-		- Comment
-		- Critique
-		- Question 
+### Internally generated
+- Idea
+- Response to external information
+	- Comment
+	- Critique
+	- Question 
+	- Emotion
+- Intention/Plan
+	- Task/To-do
+	- Goal
+	- Plan
+- Externalization of thinking
+	- Listing information
+	- Relating information (e.g. what I am doing right now. I’m externalizing my thoughts)
+- Internal state
+	- Emotion/Feeling
+- Response to stimulus
+	- Feeling/emotion
+	- Effect on me
+- Observation
+	- Noting something you see
+- Recording/Logging
+	- Accomplishments
+	- Tasks completed
+	- Progress toward goals
+	- Work performed
+	- Resources used
+	- States/status
+		- Health
 		- Emotion
-	- Intention/Plan
-		- Task/To-do
-		- Goal
-		- Plan
-	- Externalization of thinking
-		- Listing information
-		- Relating information (e.g. what I am doing right now. I’m externalizing my thoughts)
-	- Internal state
-		- Emotion/Feeling
-	- Response to stimulus
-		- Feeling/emotion
-		- Effect on me
-	- Observation
-		- Noting something you see
-	- Recording/Logging
-		- Accomplishments
-		- Tasks completed
-		- Progress toward goals
-		- Work performed
-		- Resources used
-		- States/status
-			- Health
-			- Emotion
-		- Events
-			- That something occurred. 
-			- Example: "Went to store." or "Took a shower". Also "Priscilla met me at school."
-			- What was said or done during the event (e.g. meeting notes)
-	- Processes/Protocols
-		- Steps/methods for performing actions (prospective)
-		- Record of organic processes performed
-			- Ex. I keep a list of software I installed on the Gereau Lab Ubuntu with notes to how and why I did it. I have this so I can do it again in the future. 
-			- Lab Notebook: Record of what was done and what happened. Documentation.
-		- Documentation for usage
-			- For oneself and for others
+	- Events
+		- That something occurred. 
+		- Example: "Went to store." or "Took a shower". Also "Priscilla met me at school."
+		- What was said or done during the event (e.g. meeting notes)
+- Processes/Protocols
+	- Steps/methods for performing actions (prospective)
+	- Record of organic processes performed
+		- Ex. I keep a list of software I installed on the Gereau Lab Ubuntu with notes to how and why I did it. I have this so I can do it again in the future. 
+		- Lab Notebook: Record of what was done and what happened. Documentation.
+	- Documentation for usage
+		- For oneself and for others
 
